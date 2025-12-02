@@ -1,0 +1,24 @@
+{
+  "5CS-PT4-00|2025|002": [
+    {
+      "GRADETEXT": "sehr gut",
+      "COUNT": 1
+    },
+    {
+      "GRADETEXT": "gut",
+      "COUNT": 8
+    },
+    {
+      "GRADETEXT": "befriedigend",
+      "COUNT": 10
+    },
+    {
+      "GRADETEXT": "ausreichend",
+      "COUNT": 3
+    },
+    {
+      "GRADETEXT": "nicht ausreichend",
+      "COUNT": 8
+    }
+  ]
+}
